@@ -63,7 +63,7 @@ namespace yahtzee
             RollDice();
             if (counter == 3)
             {
-                InsertResults();
+                InsertResults(); 
                 GetResults();
                 UpdateLabel();
                 
