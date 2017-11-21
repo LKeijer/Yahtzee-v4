@@ -59,6 +59,7 @@ namespace yahtzee
 
         private void rollDiceBtn_Click(object sender, EventArgs e)
         {
+
             RollDice();
             if (counter == 3)
             {
